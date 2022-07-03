@@ -10,4 +10,9 @@ useRef.</br>
 ### Images of the Resume Builder
 
 1. When you open the website(Landing Page):</br>
-
+![](Project%20output%20images/Opening.png)
+![](Project%20output%20images/addEducation.png)
+![](Project%20output%20images/addAchieve.png)
+![](Project%20output%20images/addWork.png)
+![](Project%20output%20images/After%20adding%20user.png)
+![](Project%20output%20images/userAdd.png)
