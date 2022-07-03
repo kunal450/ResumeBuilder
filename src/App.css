@@ -1,0 +1,61 @@
+#logo{
+  color: #5050C5;
+}
+#import{
+  border: 2px solid #D33852;;
+}
+#export{
+  background: #D33852;
+}
+li{
+  list-style: none;
+}
+
+#usrImage{
+  border-radius: 50%;
+  background: #F9F9F9;
+  border: 1px dashed #EBEBEB;
+}
+#usrImageUpload{
+  background-color: #FFFFFF;
+}
+#personalInfoSave{
+  background: #008392;
+  color: #FFFFFF;
+}
+.usrInput{
+  border: 1px solid #EBEBEB;
+}
+
+.educationText{
+  border: 1px solid #EBEBEB;
+}
+#saveButton{
+  background: #008392;
+}
+#cancelButton{
+  color: #008392;
+  border: 1px solid #EBEBEB;
+}
+
+
+.workExperienceText{
+  border: 1px solid #EBEBEB;
+}
+
+
+#addNew{
+  border: 2px solid #D33852;
+}
+
+#displayBlock{
+  border: 1px solid #EBEBEB;
+}
+#displayEdit{
+  color: #717171;
+  border: 1px solid #EBEBEB;
+}
+#displayDelete{
+  color: #717171;
+  border: 1px solid #EBEBEB;
+}
